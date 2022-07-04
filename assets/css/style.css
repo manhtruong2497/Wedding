@@ -4614,8 +4614,8 @@ wpo-hero-slider-s3
   width: 100%;
   height: 100%;
   border-radius: 235px;
-  -webkit-animation: kenburn 25s 2s alternate infinite;
-  -animation: kenburn 25s 2s alternate infinite;
+  /* -webkit-animation: kenburn 25s 2s alternate infinite;
+  -animation: kenburn 25s 2s alternate infinite; */
 }
 @media (max-width: 991px) {
   .couple-section .middle-couple-pic {

@@ -22,6 +22,9 @@
         else if (event.ctrlKey && event.shiftKey && event.keyCode == 67) { // Prevent Ctrl+Shift+I        
             return false;
         }
+        else if (event.ctrlKey && event.keyCode == 85) { // Prevent Ctrl+U
+            return false;
+        }
     });
 
     //block right click
